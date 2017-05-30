@@ -12,6 +12,7 @@ int WINAPI WinMain (HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
     WaitKey ();
 
+
     DxLib_End ();
 
     return 0;
